@@ -1,6 +1,6 @@
 ---
-title: Alice Wu 吳恩達
-role: Professor of Artificial Intelligence
+title: Ellen Boven
+role: Postdoctoral Fellow
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
